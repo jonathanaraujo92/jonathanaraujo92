@@ -2,18 +2,37 @@ Olá, eu sou o Jonathan Araujo
 atualmente estou estudando para migrar de carrerira, sou buscando oportunidades para DevOps Jr
 vou incluir aqui todos os meus projetos conforme os avanços nos estudos de Cloud/DevOps
 fique a vontade para me enviar mensagens no Linkedin caso haja algum interesse em meu perfil
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jon-Asi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg">
+  <img align="center" alt="Jon-Ter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
+  <img align="center" alt="Jon-Vag" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
+  <img align="center" alt="Jon-Dock" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Jon-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Jon-Azu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Jon-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" alt="Jon-Vision" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+##
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?jonathanaraujo92=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=jonathanaraujo92&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?usarname=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?usarname=jonathanaraujo92&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanaraujo92&show_icons=true" />
 </picture>
 
+##
+
+
+  
+  ##
+  
 <div> 
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCN0DSOLCoQRlMPBnLh7WI1g)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jonathanaraujo92" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
