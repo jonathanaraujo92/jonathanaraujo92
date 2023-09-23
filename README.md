@@ -2,7 +2,17 @@ Olá, eu sou o Jonathan Araujo
 atualmente estou estudando para migrar de carrerira, sou buscando oportunidades para DevOps Jr
 vou incluir aqui todos os meus projetos conforme os avanços nos estudos de Cloud/DevOps
 fique a vontade para me enviar mensagens no Linkedin caso haja algum interesse em meu perfil
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?jonathanaraujo92=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?usarname=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <div> 
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCN0DSOLCoQRlMPBnLh7WI1g)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
